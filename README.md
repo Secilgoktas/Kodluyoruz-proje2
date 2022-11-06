@@ -21,3 +21,6 @@ Merge Sort Projesi
 ## Big-O gösterimini yazınız.
 
 ##O(n*(logn))
+
+
+##Patika.dev](https://www.patika.dev/tr)
